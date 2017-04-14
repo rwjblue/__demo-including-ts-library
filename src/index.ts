@@ -14,6 +14,6 @@ app.registerInitializer({
   }
 });
 
-app.renderComponent('--demo-including-ts-library', containerElement, null);
+app.renderComponent('is-covered', containerElement, null);
 
 app.boot();
